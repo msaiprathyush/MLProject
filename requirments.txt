@@ -3,4 +3,6 @@ pandas
 seaborn
 matplotlib
 sklearn
+xgboost
+catboost
 #-e .
